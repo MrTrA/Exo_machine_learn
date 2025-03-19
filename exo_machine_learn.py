@@ -14,7 +14,7 @@ st.subheader("Auteur: Etudiant Traoré Aziz")
 
     # Définition de la fonction pour télécharger les données
 
-data = pd.read_csv("Expresso_churn_dataset.csv")
+data = pd.read_csv("https://drive.google.com/file/d/1rIOP3BehV-vw-NijVmqTAc9ZD1PBeIjw/view?usp=sharing")
 
 
 # Afficher des informations générales sur l'ensemble de données
